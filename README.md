@@ -1,1 +1,2 @@
-Только для удобства я добавил файлы с заданиями в сами папки с кодом!!!)
+Задания: 
+    https://drive.google.com/drive/folders/14o3QaWJQ35tTCS7jJjGraj1x862bhgq2?usp=sharing
